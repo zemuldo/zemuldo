@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danstan aka Zemuldo.
-- 👀 I’m interested in Blockchanin, Distributed and Decentralized Web and Anything Data.
-- 🌱 I’m currently diving dipper in OTP and Elixir while learning Rust and Distributed Architecture.
+- 👀 I’m interested in Blockchanin, Distributed and Decentralized Web and Anything Data and Identity.
+- 🌱 I’m currently diving dipper in to OTP and Elixir while learning Rust and Distributed Architecture.
 - 💞️ I Love writing technical content at [zemuldo.com/blog](https://zemuldo.com/blog)
 - 🤳 I hate nothing and no one but I dont like mean people! Really!.
 - 💪 More notes: College dropout, Husband, Introvert, Tech mentor.
